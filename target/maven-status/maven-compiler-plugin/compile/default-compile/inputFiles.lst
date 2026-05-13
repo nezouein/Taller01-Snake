@@ -1,0 +1,15 @@
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/Constants.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/GUIView.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/GameController.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/GameFactory.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/GameModel.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/GameOverException.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/GameTile.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/GameView.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/GoldModel.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/IGameFactory.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/Main.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/Position.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/RectangularTile.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/RoundTile.java
+/Users/djurado/Downloads/Taller01_git-1/Taller01-Snake/src/main/java/com/espol/taller01/snake/SnakeModel.java
