@@ -4,9 +4,9 @@
 
 | Rol | Nombre | Usuario de GitHub | Commit principal |
 | --- | --- | --- | --- |
-| Líder | Nejeh Zouein | nezouein | 1 |
-| Integrante 1 | Jose Navarrete | jnavarrete2026  | 2 |
-| Integrante 2 | Fernando Zambrano | Rafaz-7 | 3 |
+| Líder | Nejeh Zouein | nezouein | [1](https://github.com/nezouein/Taller01-Snake/commit/65604a400f25fd350d662ad56a383161f647a210) |
+| Integrante 1 | Jose Navarrete | jnavarrete2026  |  |
+| Integrante 2 | Fernando Zambrano | Rafaz-7 |  |
 
 ## Capturas
 
